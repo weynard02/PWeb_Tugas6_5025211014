@@ -12,6 +12,7 @@
     align-items: stretch;
     justify-content: space-evenly;
     border: 2px solid black;
+    background-color:#c9f9ff;
     padding: 10px;
   }
   div.input-box {
@@ -49,8 +50,8 @@
   div.greetings {
     text-align: center;
     font-size: 1.2rem;
-    background-color: #d3d3d3;
-    background-image: linear-gradient(15deg, transparent 28%, rgba(255, 255, 255, 0.5) 28%);
+    background-color: #00e1ff;
+    background-image: linear-gradient(15deg, transparent 28%, rgb(30, 245, 84) 28%);
     background-size: 50px;
   }
   div.input-box input.error {
